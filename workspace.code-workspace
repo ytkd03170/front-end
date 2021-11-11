@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "SSH FS - kudo_yuta",
+			"uri": "ssh://kudo_yuta/home/kudo_yuta/DocumentRoot/"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
